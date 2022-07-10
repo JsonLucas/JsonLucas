@@ -1,4 +1,4 @@
-## Oi, tudo bem? Meu nome é Jason e muito obrigado pela visita! 😁
+## Hello there! 😁
 <div align="center">
   <a href="https://github.com/JsonLucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JsonLucas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
