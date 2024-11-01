@@ -1,6 +1,6 @@
 ## Oi! 😁 <!--![](https://komarev.com/ghpvc/?username=JsonLucas) -->
 <div align="center">
-  <p>Muito obrigado pela visita! Meu nome é Jason Lucas, tenho 24 anos, atualmente atuando como dev web full stack.</p>
+  <p>Muito obrigado pela visita! Meu nome é Jason Lucas, tenho 24 anos, atualmente atuando como dev full stack.</p>
   <p>Buscando sempre me aperfeiçoar nas tecnologias que uso hoje, como Java Spring Boot, Typescript, React, NodeJS, SQL... e expandir meus horizontes, como desenvolvimento de jogos e IA.</p>
   <p>Altamente apaixonado por tecnologia, animes/mangás/quadrinhos/filmes/jogos e música boa.</p>
   <p>Quer conversar? Manda um salve! 🤗</p>
